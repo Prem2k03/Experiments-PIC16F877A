@@ -1,0 +1,1 @@
+In this project i used two PIC16F877A one for transmission, then another one for reciver and print the recived data in 16x2 LCD
