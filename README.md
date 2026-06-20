@@ -1,2 +1,1 @@
-This repo have the experiments source code for PIC16F877A's peripherals like, GPIO, Inerrupts, ADC, Timers, serial peripheral interface protocol.
-Each folder has different peripherals experiments.
+This repository contains the source code for various PIC16F877A peripheral experiments, including GPIO, Interrupts, ADC, Timers, and the Serial Peripheral Interface (SPI) protocol. Each folder is dedicated to a different peripheral.
